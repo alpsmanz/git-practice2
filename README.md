@@ -5,7 +5,7 @@
 
 1.HEADを起点としてトピックブランチ(topic-branchA,topic-branchB)を作成してください。  
 2.topic-branchAで以下の作業を行ってください。  
-2-1.text.txtの1行目に"Heat to Heart"と記載しコミットしてください。  
+2-1.text.txtの1行目に"Heaｒt to Heart"と記載しコミットしてください。  
 2-2.text.txtに2行目に"アルプス技研は、人と人との心のつながりを大切にしています。"と記載しコミットしてください。  
 3.topic-branchBに切り替えてください。  
 4.topic-branchBで以下の作業を行ってください。  
