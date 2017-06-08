@@ -31,4 +31,7 @@
 1.masterブランチへ切り替えてください。
 2.topic-branchCのコミット内容をcherry-pickしてください。
 
+*with everyone*
+
+1.text3.txtにそれぞれ対象の内容を記載してコミットしてください。
 2.text3.txtをリモートブランチへプッシュしてください。
